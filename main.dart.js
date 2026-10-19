@@ -81661,7 +81661,7 @@ g={}
 s=7
 return A.A(n.qV(),$async$mE)
 case 7:m=b
-l=A.fK("https://senior-life-api.onrender.com /api/weather?lat="+A.k(m.a)+"&lng="+A.k(m.b),0,null)
+l=A.fK(u.E+A.k(m.a)+"&lng="+A.k(m.b),0,null)
 s=8
 return A.A(A.WJ(l).ma(B.eN),$async$mE)
 case 8:k=b
